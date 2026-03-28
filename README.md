@@ -62,6 +62,7 @@ Welcome to the official repository for **Air-Know**. This is about <a href="http
 ![](assets/results-fiq.png)
 
 #### CIRR:
+
 <caption><strong>Table 2.</strong> Performance comparison on the CIRR test set in terms of R@K (%) and Rsub@K (%). The best and second-best results are highlighted in bold and underlined, respectively.</caption>
 
 ![](assets/results-cirr.png)
